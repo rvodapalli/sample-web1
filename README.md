@@ -1,1 +1,2 @@
-# sample-web1
+# sample-web-app
+A Sample java web application
